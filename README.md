@@ -6,7 +6,7 @@ The goal of this project is to build a Machine Learning Algortihm that predicts 
 For this project I used data from two datasets I found on kaggle (https://www.kaggle.com/kimjihoo/coronavirusdataset). The datasets are about COVID-19 in South Korea in the period till 30/06/2020. The first dataset *TimeProvince.csv* contains data about daily case numbers in different South Korean provinces. The second dataset *Weather.csv* contains different weather measurements for the provinces in the first dataset.
 
 ## Machine Learning Methods
-The Machine Learning model used in this project is **Random Forest**. The conceptual idea behind a Random Forest will be explained in great detail in the Jupyter Notebook.
+The Machine Learning model used in this project is **Random Forest**. This is a supervised learning method. The conceptual idea behind a Random Forest will be explained in great detail in the Jupyter Notebook.
 
 ## Programming Language
 The programming language used in this proect is Python. The code was written in a Jupyter Notebook using Anaconda.
