@@ -21,7 +21,8 @@ The programming language used in this proect is Python. The coide was written in
 ## How to run?
 If you want to run this project you need to do following steps:
 1. Donwload the jupyter Notebook *Machince_Learning_Covid19.ipynb* and both datasets *TimeProvince.csv* and *Weather.csv*. Put all files in the **same** directory/folder. You should have a folder that looks like this:
-![](Imgages/Unbenannt.png)
+![](Images/Unbenannt.PNG)
+
 2. 
 
 
