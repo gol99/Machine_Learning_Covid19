@@ -9,7 +9,7 @@ For this project I used data from two datasets I found on kaggle (https://www.ka
 The Machine Learning model used in this project is **Random Forest**. The conceptual idea behind a Random Forest will be explained in great detail in the Jupyter Notebook.
 
 ## Programming Language
-The programming language used in this proect is Python. The coide was written in a Jupyter Notebook using Anaconda.
+The programming language used in this proect is Python. The code was written in a Jupyter Notebook using Anaconda.
  
 ## Packages needed
 - pandas
@@ -20,17 +20,19 @@ The programming language used in this proect is Python. The coide was written in
 
 ## How to run?
 If you want to run this project you need to do following steps:
-1. Donwload the jupyter Notebook *Machince_Learning_Covid19.ipynb* and both datasets *TimeProvince.csv* and *Weather.csv*. Put all files in the **same** directory/folder. You should have a folder that looks like this:
+1. Donwload the project from github as a zip file and open it on your own device. Make sure that all files are in the **same** directory/folder. You should have a folder that looks like this::
 ![](Images/Unbenannt.PNG)
+2. Run the juypyter notebook *Machince_Learning_Covid19.ipynb*. You can run it in wathever environment you like in which you can run a jupyter notebook. If you don't already have an environment to run the juypter notebook, I'll explain how you can install one under *Installation*
+3. To best understand the code, you shoul run it cell by cell.
 
-2. 
+## Installation (Source: https://codingxcamp.com/levels/level2?lang=Python&taskid=600&levelskill=2)
 
+- Step 1: Download and Install Anaconda (https://www.anaconda.com/download/) - preinstalled packages with python 3 - with this step we will switch to executing code on your PC (Note: select an easy to remember folder - eg: c:\anaconda3)
+- Step 2: Once you install Anaconda you should be able to run jupyter notebook which is a powerful online application containing an ordered list of input/output cells which can contain code, text, mathematics, plots and rich media.
+- Step 3: Launch jupyter notebook by opening a terminal in your PC: example in Windows --> Click on Run and neter cmd.exe - terminal window shoudl appear - type in: C:\Python>jupyter notebook
 
-## Installation
+(Source: https://codingxcamp.com/levels/level2?lang=Python&taskid=600&levelskill=2)
 
-
-
-
-## Credits
-Give proper credits. This could be a link to any repo which inspired you to build this project, any blogposts or links to people who contrbuted in this project. 
+## Sources
+All the sources are mentioned in the appropriate spot in the jupyter notebook
 
