@@ -25,7 +25,7 @@ If you want to run this project you need to do following steps:
 2. Run the juypyter notebook *Machince_Learning_Covid19.ipynb*. You can run it in wathever environment you like in which you can run a jupyter notebook. If you don't already have an environment to run the juypter notebook, I'll explain how you can install one under *Installation*
 3. To best understand the code, you shoul run it cell by cell.
 
-## Installation (Source: https://codingxcamp.com/levels/level2?lang=Python&taskid=600&levelskill=2)
+## Installation
 
 - Step 1: Download and Install Anaconda (https://www.anaconda.com/download/) - preinstalled packages with python 3 - with this step we will switch to executing code on your PC (Note: select an easy to remember folder - eg: c:\anaconda3)
 - Step 2: Once you install Anaconda you should be able to run jupyter notebook which is a powerful online application containing an ordered list of input/output cells which can contain code, text, mathematics, plots and rich media.
