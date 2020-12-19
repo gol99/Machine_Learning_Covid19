@@ -20,10 +20,10 @@ The programming language used in this proect is Python. The code was written in 
 
 ## How to run?
 If you want to run this project you need to do following steps:
-1. Donwload the project from github as a zip file and open it on your own device. Make sure that all files are in the **same** directory/folder. You should have a folder that looks like this::
+1. Donwload the project from github as a zip file and open it on your own device. Make sure that all files are in the **same** directory/folder. After opening the zip file you should have a folder that looks like this:
 ![](Images/Unbenannt.PNG)
 2. Run the juypyter notebook *Machince_Learning_Covid19.ipynb*. You can run it in wathever environment you like in which you can run a jupyter notebook. If you don't already have an environment to run the juypter notebook, I'll explain how you can install one under *Installation*
-3. To best understand the code, you shoul run it cell by cell.
+3. To best understand the code, you shoul run it cell by cell. I provide all the information you need to understand what the code does and you need to run it in the jupyter notebook.
 
 ## Installation
 
@@ -34,5 +34,5 @@ If you want to run this project you need to do following steps:
 (Source: https://codingxcamp.com/levels/level2?lang=Python&taskid=600&levelskill=2)
 
 ## Sources
-All the sources are mentioned in the appropriate spot in the jupyter notebook
+All the sources are mentioned in the appropriate spot in the jupyter notebook.
 
